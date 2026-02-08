@@ -96,3 +96,7 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
+
+CRUD de Usuarios - > Listas(Productos), un usuario puede ser dueño de una lista o varia, los productosd de la  listas  tendran un campo  boolean para saber si estan comprados o no. 
+
+
